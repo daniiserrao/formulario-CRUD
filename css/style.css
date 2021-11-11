@@ -1,0 +1,12 @@
+body {
+    min-width: 585px;
+    max-width: 1920px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.clickable {
+    cursor: pointer;
+}
