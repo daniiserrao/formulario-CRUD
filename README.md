@@ -1,2 +1,3 @@
 # formulario-CRUD
-Formulário CRUD
+
+Formulário CRUD desenvolvido para praticar JavaScript
